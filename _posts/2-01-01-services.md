@@ -8,5 +8,5 @@ Seminars are available:
 - Teacher Seminars
 
 
-![][img/leadership development desktop.jpg]
+![Leadership Development](img/leadership development desktop.jpg)
 
