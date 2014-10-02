@@ -6,3 +6,7 @@ Seminars are available:
 - Personality Development/Personal Success
 - Character Training/Moral Teaching
 - Teacher Seminars
+
+
+![][img/leadership development desktop.jpg]
+
